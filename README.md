@@ -8,7 +8,7 @@
   
   💻 I'm a senior in college.
   
-  📚 Now I’m developing **Frontend & Web Service** with **React && Django**
+  📚 Now I’m developing **React && Django**
 
 
 <br/>
